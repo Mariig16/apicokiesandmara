@@ -3,7 +3,7 @@
     "precio": 5000,
     "id": 1,
     "title": "Pastel de chocolate",
-    "foto": "./image/photo1.jpg"
+    "foto": "https://mariig16.github.io/Cookies-Mara/image/photo1.jpg"
   },
   {
     "precio": 29000,
