@@ -9,7 +9,7 @@
     "precio": 29000,
     "id": 2,
     "title": "Pastel de caramelo",
-    "foto": "./image/photo2.jpg"
+    "foto": "https://picsum.photos/id/1/200/300"
   },
   {
     "precio": 780,
