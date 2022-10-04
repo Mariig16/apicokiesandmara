@@ -9,67 +9,67 @@
     "precio": 29000,
     "id": 2,
     "title": "Pastel de caramelo",
-    "foto": "https://picsum.photos/id/1/200/300"
+    "foto": "https://i.ibb.co/728WHQQ/photo2.jpg"
   },
   {
     "precio": 780,
     "id": 3,
     "title": "Pastel de fresas",
-    "foto": "./image/photo3.jpg"
+    "foto": "https://i.ibb.co/gMX0zPr/photo3.jpg"
   },
   {
     "precio": 60000,
     "id": 4,
     "title": "Pastel de café",
-    "foto": "./image/photo4.jpg"
+    "foto": "https://i.ibb.co/0FnWYDt/photo4.jpg"
   },
   {
     "precio": 45000,
     "id": 5,
     "title": "Pastel de crema",
-    "foto": "./image/photo5.jpg"
+    "foto": "https://i.ibb.co/ZScXfQ9/photo5.jpg"
   },
   {
     "precio": 45000,
     "id": 5,
     "title": "Pastel de crema",
-    "foto": "./image/photo6.jpg"
+    "foto": "https://i.ibb.co/WgC7M8M/photo6.jpg"
   },
   {
     "precio": 45000,
     "id": 5,
     "title": "Pastel de crema",
-    "foto": "./image/photo7.jpg"
+    "foto": "https://i.ibb.co/MDWGNkY/photo7.jpg"
   },
   {
     "precio": 45000,
     "id": 5,
     "title": "Pastel de crema",
-    "foto": "./image/photo8.jpg"
+    "foto": "https://i.ibb.co/TBQWTzD/photo8.jpg"
   },
   {
     "precio": 45000,
     "id": 5,
     "title": "Pastel de crema",
-    "foto": "./image/photo11.jpg"
+    "foto": "https://i.ibb.co/QQtxSjW/photo9.jpg"
   },
   {
     "precio": 45000,
     "id": 5,
     "title": "Pastel de crema",
-    "foto": "./image/photo10.jpg"
+    "foto": "https://i.ibb.co/D4Thtz1/photo10.jpg"
   },
   {
     "precio": 45000,
     "id": 5,
     "title": "Pastel de crema",
-    "foto": "./image/photo11.jpg"
+    "foto": "https://i.ibb.co/DwkLm3n/photo11.jpg"
   },
   {
     "precio": 45000,
     "id": 5,
     "title": "Pastel de crema",
-    "foto": "./image/photo12.jpg"
+    "foto": "https://i.ibb.co/sWqGkpP/photo12.jpg"
   }
 
 ]
